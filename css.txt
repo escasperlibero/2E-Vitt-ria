@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Farol da Barra - Bahia</title>
+</head>
+<body>
+    <header>
+        <h1>Farol da Barra - Bahia</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#sobre">Sobre</a></li>
+            <li><a href="#imagens">Imagens</a></li>
+            <li><a href="#localizacao">Localização</a></li>
+            <li><a href="lugares-favoritos.html">Lugares Favoritos</a></li>
+        </ul>
+    </nav>
+
+    <section id="sobre">
+        <h2>Sobre o Farol da Barra</h2>
+        <p>O Farol da Barra é um famoso ponto turístico localizado na cidade de Salvador, Bahia. Ele é o mais antigo farol das Américas e oferece uma vista espetacular do Oceano Atlântico. Construído no século XVII, o farol é uma atração imperdível para os visitantes que desejam conhecer a história e a beleza da Bahia.</p>
+    </section>
+
+    <section id="imagens">
+        <h2>Imagens</h2>
+        <img src="farol-barra1.jpg" alt="Farol da Barra - Imagem 1">
+        <img src="farol-barra2.jpg" alt="Farol da Barra - Imagem 2">
+    </section>
+
+    <section id="localizacao">
+        <h2>Localização</h2>
+        <p>O Farol da Barra está localizado na Avenida Sete de Setembro, s/n - Barra, Salvador, Bahia. É de fácil acesso e um local imperdível para quem visita a região.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Farol da Barra - Bahia. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
+```
+
+Agora, vou criar a segunda página HTML sobre os lugares favoritos na minha cidade com imagens:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lugares Favoritos na Minha Cidade</title>
+</head>
+<body>
+    <header>
+        <h1>Lugares Favoritos na Minha Cidade</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#lugar1">Lugar 1</a></li>
+            <li><a href="#lugar2">Lugar 2</a></li>
+            <li><a href="#lugar3">Lugar 3</a></li>
+        </ul>
+    </nav>
+
+    <section id="lugar1">
+        <h2>Lugar 1</h2>
+        <p>Uma breve descrição do Lugar 1 e por que é um dos meus favoritos.</p>
+        <img src="lugar1.jpg" alt="Lugar 1 - Imagem">
+    </section>
+
+    <section id="lugar2">
+        <h2>Lugar 2</h2>
+        <p>Uma breve descrição do Lugar 2 e por que é um dos meus favoritos.</p>
+        <img src="lugar2.jpg" alt="Lugar 2 - Imagem">
+    </section>
+
+    <section id="lugar3">
+        <h2>Lugar 3</h2>
+        <p>Uma breve descrição do Lugar 3 e por que é um dos meus favoritos.</p>
+        <img src="lugar3.jpg" alt="Lugar 3 - Imagem">
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Meus Lugares Favoritos na Cidade. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
+```
+
+Certifique-se de substituir "lugar1.jpg," "lugar2.jpg," "lugar3.jpg" e as descrições dos lugares pelos seus próprios lugares favoritos e imagens. Agora, quando clicar no link "Lugares Favoritos" na página anterior, será direcionado para essa nova página que descreve seus lugares favoritos na cidade com imagens.
